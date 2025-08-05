@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/78a46b66867db059aa9955a3782cecce)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/4b077835f5fb2641e2df395ff714b7f2)
 
 
 <h2> 🤳 Connect with me:</h2>
